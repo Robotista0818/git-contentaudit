@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\royce.w.g.bautista\\Downloads\\MarketingContentGenerator\\MarketingContentGenerator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\royce.w.g.bautista\\Downloads\\MarketingContentGenerator\\MarketingContentGenerator\\Utilities\\URLScraper.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Utilities\\URLScraper.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{0251bcb7-bf19-4277-a65f-d7efc327bad1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{0251bcb7-bf19-4277-a65f-d7efc327bad1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e7dc85bf-0119-4685-b401-85acaebb1ea2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{36750362-561c-4391-aa22-1c6138f4bb8c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e7dc85bf-0119-4685-b401-85acaebb1ea2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{36750362-561c-4391-aa22-1c6138f4bb8c}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{0251bcb7-bf19-4277-a65f-d7efc327bad1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{0251bcb7-bf19-4277-a65f-d7efc327bad1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{0251bcb7-bf19-4277-a65f-d7efc327bad1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{0251bcb7-bf19-4277-a65f-d7efc327bad1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{0251bcb7-bf19-4277-a65f-d7efc327bad1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{0251bcb7-bf19-4277-a65f-d7efc327bad1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d4c93ed6-c79a-422d-93d7-627e0372272e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d4c93ed6-c79a-422d-93d7-627e0372272e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e7dc85bf-0119-4685-b401-85acaebb1ea2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d24c8ad1-25b4-4115-be1b-b5f3ef55aea1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "URLScraper.py",
+              "DocumentMoniker": "C:\\Users\\royce.w.g.bautista\\Downloads\\MarketingContentGenerator\\MarketingContentGenerator\\Utilities\\URLScraper.py",
+              "RelativeDocumentMoniker": "Utilities\\URLScraper.py",
+              "ToolTip": "C:\\Users\\royce.w.g.bautista\\Downloads\\MarketingContentGenerator\\MarketingContentGenerator\\Utilities\\URLScraper.py",
+              "RelativeToolTip": "Utilities\\URLScraper.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-04-11T11:42:03.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
